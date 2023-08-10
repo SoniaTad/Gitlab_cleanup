@@ -1,0 +1,2 @@
+requests  #2.28.2
+ms-active-directory   #1.12.1s
